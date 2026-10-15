@@ -1,0 +1,38 @@
+{
+  "bomFormat": "CycloneDX",
+  "specVersion": "1.5",
+  "serialNumber": "urn:uuid:7e82d354-facc-5f8d-9501-5edb4c16decf",
+  "version": 1,
+  "metadata": {
+    "timestamp": "2026-10-11T05:19:44Z",
+    "component": {
+      "type": "application",
+      "name": "AKAUNTING",
+      "version": "dc05b89782b8",
+      "bom-ref": "pkg:generic/anticloud/AKAUNTING@dc05b89782b8",
+      "purl": "pkg:generic/anticloud/AKAUNTING@dc05b89782b8",
+      "licenses": [
+        {
+          "license": {
+            "id": "MIT"
+          }
+        }
+      ]
+    },
+    "properties": [
+      {
+        "name": "anticloud:source-commit",
+        "value": "dc05b89782b8fcd4df864922e6a0de929bd0fbe8"
+      },
+      {
+        "name": "anticloud:source-url",
+        "value": "https://github.com/the-anticloud/anticloud-akaunting.git"
+      },
+      {
+        "name": "anticloud:tier",
+        "value": "tier-agent"
+      }
+    ]
+  },
+  "components": []
+}
